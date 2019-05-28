@@ -78,7 +78,7 @@
     "@hapi/good": "8.2.0",
     "@hapi/hapi": "18.3.1",
     "@hapi/basic": "5.1.0",
-    "hapi-auth-bearer-token": "6.1.1",
+    "hapi-auth-bearer-token": "6.2.1",
     "hapi-swagger": "9.4.2",
     "immutable": "3.8.2",
     "@hapi/inert": "5.2.0",
