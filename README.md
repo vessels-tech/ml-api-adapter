@@ -4,6 +4,7 @@
 [![Git Releases](https://img.shields.io/github/release/mojaloop/ml-api-adapter.svg?style=flat)](https://github.com/mojaloop/ml-api-adapter/releases)
 [![Docker pulls](https://img.shields.io/docker/pulls/mojaloop/ml-api-adapter.svg?style=flat)](https://hub.docker.com/r/mojaloop/ml-api-adapter)
 [![CircleCI](https://circleci.com/gh/mojaloop/ml-api-adapter.svg?style=svg)](https://circleci.com/gh/mojaloop/ml-api-adapter)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvessels-tech%2Fml-api-adapter.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvessels-tech%2Fml-api-adapter?ref=badge_shield)
 
 The ml api adapter is a series of services that facilitate clearing and settlement of transfers between DFSPs, including the following functions:
 
@@ -54,3 +55,7 @@ Running the tests:
 
 
 Tests include code coverage via istanbul. See the test/ folder for testing scripts.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvessels-tech%2Fml-api-adapter.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvessels-tech%2Fml-api-adapter?ref=badge_large)
