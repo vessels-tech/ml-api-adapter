@@ -113,3 +113,6 @@ Undefined symbols for architecture x86_64:
 clang: error: linker command failed with exit code 1 (use -v to see invocation) 
 `
   - resolved by installing openssl `brew install openssl` and then running: `CFLAGS=-I/usr/local/opt/openssl/include LDFLAGS=-L/usr/local/opt/openssl/lib npm install --save node-rdkafka`  
+TMP
+TMP
+TMP
