@@ -71,7 +71,7 @@
     "@hapi/boom": "7.4.2",
     "catbox": "10.0.6",
     "catbox-memory": "4.0.1",
-    "commander": "2.19.0",
+    "commander": "2.20.0",
     "docdash": "1.0.3",
     "flat": "4.1.0",
     "glob": "7.1.3",
